@@ -37,6 +37,6 @@ public class ThisKeyword {
 		student2.display();
 	}
 }
-    /* OUTPUT
-       Name: Sneha, Age: 20
-       Name: Sneha, Age: 20 */
+/*
+ * OUTPUT Name: Sneha, Age: 20 Name: Sneha, Age: 20
+ */
